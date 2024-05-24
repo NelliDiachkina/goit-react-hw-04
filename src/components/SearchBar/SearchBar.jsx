@@ -32,7 +32,7 @@ const SearchBar = ({ onSubmit }) => {
           className={css.input}
         />
         <button type="submit" className={css.btn}>
-          <FaSearch size="25" />
+          <FaSearch size="23" />
         </button>
       </form>
       <Toaster toastOptions={toastOptions} position="top-left" />

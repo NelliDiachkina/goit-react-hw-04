@@ -16,12 +16,11 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 10px 15px;
+  padding: 5px 16px;
 }
 
 .input {
   min-width: 280px;
-  min-height: 47px;
   padding: 8px;
   border-radius: 5px;
 }
