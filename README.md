@@ -30,3 +30,8 @@ Currently, two official plugins are available:
 
 Для реалізації модального вікна використовуй бібліотеку
 [React Modal](https://github.com/reactjs/react-modal?tab=readme-ov-file#examples).
+
+![1](https://github.com/NelliDiachkina/goit-react-hw-04/assets/99911692/67203737-c86a-4143-ab38-51d98ece8303)
+
+![2](https://github.com/NelliDiachkina/goit-react-hw-04/assets/99911692/6d0a532e-2aa1-468a-bbf8-6b169a2695bf)
+
