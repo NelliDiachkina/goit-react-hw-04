@@ -25,7 +25,7 @@ const App = () => {
   const contentRef = useRef();
 
   useEffect(() => {
-    if (searchQuery === '') {
+    if (!searchQuery) {
       return;
     }
 
